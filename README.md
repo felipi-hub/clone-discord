@@ -15,7 +15,7 @@ Este é um projeto front-end que recria a página inicial do Discord, com foco e
 
 ## 📸 Prévia
 
-![Prévia do Projeto](assets/preview.png)
+![Prévia do Projeto](assets/discord1.webp)
 
 ## 🚀 Tecnologias utilizadas
 
